@@ -20,8 +20,8 @@ Skills: Wordpress/Elementor / HTML / CSS/
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mstmuntainakhatun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mst-muntainkhatun/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dev-muntaina.pantheonsite.io/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/mstmuntainakhatun)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/freelancermuntaina)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/mstmuntainakhatun&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/freelancermuntaina&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/mstmuntainakhatun)  
+![Profile views](https://gpvc.arturio.dev/https://github.com/freelancermuntaina)  
